@@ -1,0 +1,8 @@
+.vs
+Debug/
+Release/
+obj/
+
+*.aps
+*.user
+*.filter

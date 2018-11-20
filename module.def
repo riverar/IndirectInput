@@ -1,0 +1,7 @@
+EXPORTS
+    DirectInputCreateA=WrappedDirectInputCreateA
+    DirectInputCreateW=WrappedDirectInputCreateW
+    DllCanUnloadNow=WrappedDllCanUnloadNow
+    DllGetClassObject=WrappedDllGetClassObject
+    DllRegisterServer=WrappedDllRegisterServer
+    DllUnregisterServer=WrappedDllUnregisterServer
