@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IndirectInput", "IndirectInput.vcxproj", "{F0D6593D-3780-4D6C-95BA-2025BA6C9D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0D6593D-3780-4D6C-95BA-2025BA6C9D04}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0D6593D-3780-4D6C-95BA-2025BA6C9D04}.Debug|x86.Build.0 = Debug|Win32
+		{F0D6593D-3780-4D6C-95BA-2025BA6C9D04}.Release|x86.ActiveCfg = Release|Win32
+		{F0D6593D-3780-4D6C-95BA-2025BA6C9D04}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6042233A-9372-42FE-A2D7-4D493DD161F2}
+	EndGlobalSection
+EndGlobal
