@@ -2,7 +2,7 @@
 
 ![Myst 4 Screenshot](./gfx/myst4.png)
 
-A simple DirectInput wrapper to work around a Windows 10 [device enumeration bug](https://aka.ms/AA3931c).
+A simple DirectInput wrapper to work around a Windows [device enumeration bug](https://aka.ms/AA3931c).
 
 ## Game support
 
@@ -16,3 +16,4 @@ A simple DirectInput wrapper to work around a Windows 10 [device enumeration bug
 ## Supported operating systems ##
 
 - Windows 10
+- Windows 11
